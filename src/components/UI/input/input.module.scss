@@ -1,0 +1,13 @@
+.Label{
+ 
+}
+.Input{
+ display: block;
+ padding: 10px;
+ font-size: 18px;
+ outline: none;
+ border: 1px solid #000;
+ &:focus{
+  outline: none;
+ }
+}
